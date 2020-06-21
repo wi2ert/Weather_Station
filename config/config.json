@@ -1,0 +1,10 @@
+{
+  "wifi": {
+    "ssid": "SSID",
+    "password": "password"
+  },
+  "server": {
+    "ip": "192.168.0.xxx",
+    "port": "8086"
+  }
+}
